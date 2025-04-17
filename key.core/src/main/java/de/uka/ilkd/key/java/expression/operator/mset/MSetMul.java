@@ -1,4 +1,4 @@
-package de.uka.ilkd.key.java.expression.operator.mst;
+package de.uka.ilkd.key.java.expression.operator.mset;
 
 import de.uka.ilkd.key.java.Services;
 import de.uka.ilkd.key.java.abstraction.KeYJavaType;
